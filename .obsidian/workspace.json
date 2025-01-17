@@ -73,8 +73,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -159,7 +158,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7a4f720ba3f97abe",
+  "active": "64b62acd4345e7d0",
   "lastOpenFiles": [
     "01CKam/暗月渗透/渗透测试基础知识/搭建域环境.md",
     "01CKam/暗月渗透/渗透测试基础知识/渗透测试中常用windows命令.md",
