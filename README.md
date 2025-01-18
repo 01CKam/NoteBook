@@ -1,55 +1,76 @@
-# 编程笔记介绍 🌟
-
-## 目录 📚
-
-1. [简介](#简介)
-2. [笔记内容概述](#笔记内容概述)
-3. [笔记结构](#笔记结构)
-4. [联系方式](#联系方式)
 
 
-## 简介 🌱
+# NoteBook
 
-欢迎来到我的编程笔记！这些笔记是我在编程旅程中积累的宝贵经验和心得。希望这些内容能像一盏明灯，照亮你学习编程的道路。💡
+一些学习笔记
 
-![编程之路](https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=1350&q=80)
+<!-- PROJECT SHIELDS -->
 
-## 笔记内容概述 📖
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
-- **编程基础** 🧱
-    - 变量、数据类型、控制结构、函数等。
-- **面向对象编程** 🐘
-    - 类与对象、继承、多态、封装等。
-- **数据结构与算法** 🗂️
-    - 数组、链表、栈、队列、排序算法、搜索算法等。
-- **数据库** 🗃️
-    - SQL基础、数据库设计、ORM等。
-- **Web开发** 🖥️
-    - HTML、CSS、JavaScript、框架如React、Vue等。
-- **版本控制** 🗃️
-    - Git基础、Git工作流、常见问题及解决方案。
-- **其他工具** 🛠️
-    - Docker、Linux命令行、API设计等。
+<!-- PROJECT LOGO -->
+<br />
 
-
-## 笔记结构 🏗️
-
-1. **标题** 🏷️：简要描述笔记的主题。
-2. **简介** 🖋️：对主题的简要介绍。
-3. **主要内容**：
-    - **概念解释** 🧠：详细解释相关概念。
-    - **代码示例** 👨‍💻：提供实际的代码示例。
-    - **注意事项** ⚠️：列出常见的错误和注意事项。
-4. **总结** 📝：对主题的总结和回顾。
-5. **参考资料** 📚：列出相关的学习资源和链接。
-
-![编程笔记](https://images.unsplash.com/photo-1515879218367-8466d910aaa4?auto=format&fit=crop&w=1350&q=80)
-
-## 联系方式 📧
-
-- **电子邮件**: AlanKevin2077@qq.com
-- **GitHub**: [https://github.com/01CKam](https://github.com/01CKam)
+<p align="center">
+  <a href="https://github.com/01CKam/NoteBook/">
+    <img src="code.webp" alt="" width="80" height="80">
+  </a>
+  <h3 align="center">写在时间之内</h3>
+</p>
 
 
-感谢你访问！希望这些笔记能帮助你。如果你有任何建议或意见，欢迎随时联系我。📩
+ 本编程笔记面向初学者
+ 
+## 目录
+
+- [01CKam](https://github.com/01CKam/NoteBook/tree/main/01CKam)
+ - [Kali](#Kali)
+ - [暗月渗透](#暗月渗透)
+
+- [JavaWeb](#Java Web)
+ - [Servlet](#Servlet)
+ - [JSP](#JSP)
+ - [MySQL](#MySQl)
+ - [Mybatis](#Mybatis)
+ - [Spring5](#Spring5)
+ - [Spring框架](#Spring框架)
+ - [Spring模块](#Spring模块)
+ - [JSON](#JSON)
+ - [XML](#XML)
+ - [Markdown](#Markdown)
+ - [Maven](#Maven)
+
+- [前端](#前端)
+ - [Javascript](#Javascript)
+ - [Vue](#Vue)
+
+- [后端](#后端)
+ - [Java](#Java)
+ - [Python](#Python)
+
+
+
+
+<!-- links -->
+[your-project-path]:01CKam/NoteBook
+[contributors-shield]: https://img.shields.io/github/contributors/01CKam/NoteBook.svg?style=flat-square
+[contributors-url]: https://github.com/01CKam/NoteBook/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/01CKam/NoteBook.svg?style=flat-square
+[forks-url]: https://github.com/01CKam/NoteBook/network/members
+[stars-shield]: https://img.shields.io/github/stars/01CKam/NoteBook.svg?style=flat-square
+[stars-url]: https://github.com/01CKam/NoteBook/stargazers
+[issues-shield]: https://img.shields.io/github/issues/01CKam/NoteBook.svg?style=flat-square
+[issues-url]: https://img.shields.io/github/issues/01CKam/NoteBook.svg
+[license-shield]: https://img.shields.io/github/license/01CKam/NoteBook.svg?style=flat-square
+[license-url]: https://github.com/01CKam/NoteBook/blob/master/LICENSE.txt
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/01CKam
+
+
+
 
