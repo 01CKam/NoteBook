@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "渗透测试遇见的问题.md",
+                "file": "学习中遇到的问题.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "渗透测试遇见的问题"
+              "title": "学习中遇到的问题"
             }
           }
         ]
@@ -43,7 +43,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "文件列表"
             }
           },
           {
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#删除用户",
+                "query": "tag:#改IDEA的文件包创建的方式，右上角齿轮处",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -60,7 +60,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "搜索"
             }
           },
           {
@@ -73,7 +73,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -150,50 +151,56 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
     }
   },
   "active": "0700dc2028124a20",
   "lastOpenFiles": [
-    "code.webp",
+    "后端/Java/Java入门到精通.md",
+    "后端/Java/Java(增强版).md",
+    "后端/Java/IMG_20241010_113700.jpg",
+    "01CKam/暗月渗透/01基础知识/03HTTP协议/HTTP实例.png",
+    "学习中遇到的问题.md",
     "渗透测试遇见的问题.md",
+    "01CKam/暗月渗透/02信息收集.pdf",
+    "01CKam/暗月渗透/01基础知识/渗透测试中常用windows命令.md",
+    "01CKam/暗月渗透/01基础知识/端口协议.md",
+    "01CKam/暗月渗透/01基础知识/搭建域环境.md",
+    "01CKam/暗月渗透/01基础知识/04渗透测试中的常用编码/渗透测试中的常用编码.md",
+    "01CKam/暗月渗透/01基础知识/03HTTP协议/HTTP协议详解.pdf",
+    "01CKam/暗月渗透/01基础知识/03HTTP协议/http请求与响应.pdf",
+    "Java Web/Maven.md",
+    "Java Web/Markdown.md",
+    "Java Web/JSON.md",
+    "01CKam/Python渗透测试.md",
+    "01CKam/XSS跨站脚本攻击.md",
+    "01CKam/计算机病毒.md",
+    "后端/Python.md",
+    "前端/JavaScript.md",
+    "Java Web/Servlet.md",
+    "Java Web/IMG_20241210_085025 1.jpg",
+    "Java Web/Mybatis.md",
+    "Java Web/MySQL.md",
+    "Java Web/XML.md",
+    "code.webp",
     "01CKam/暗月渗透/渗透测试基础知识/搭建域环境.md",
     "01CKam/暗月渗透/渗透测试基础知识/渗透测试中常用windows命令.md",
     "01CKam/暗月渗透/渗透测试基础知识/04渗透测试中的常用编码/渗透测试中的常用编码.md",
     "01CKam/暗月渗透/渗透测试基础知识/端口协议.md",
     "01CKam/暗月渗透/渗透测试基础知识/05渗透测试中的端口协议/端口协议.md",
     "01CKam/暗月渗透/渗透测试基础知识/06搭建域环境/搭建域环境.md",
-    "01CKam/暗月渗透/渗透测试基础知识/07常用Windows命令/渗透测试中常用windows命令.md",
     "01CKam/暗月渗透/渗透测试基础知识/渗透测试中常用windows命令.txt",
     "01CKam/暗月渗透/渗透测试基础知识/07常用Windows命令/渗透测试中常用windows命令.txt",
     "01CKam/暗月渗透/渗透测试基础知识/07常用Windows命令",
     "01CKam/暗月渗透/渗透测试基础知识/06搭建域环境",
     "01CKam/暗月渗透/渗透测试基础知识/05渗透测试中的端口协议",
-    "01CKam/暗月渗透/渗透测试基础知识/01虚拟机与Kali、靶机/01VMware Workstation虚拟机学习使用.md",
     "01CKam/暗月渗透/渗透测试基础知识/04渗透测试中的常用编码/渗透测试中的常用编码.docx",
     "01CKam/暗月渗透/渗透测试基础知识/04渗透测试中的常用编码/~$测试中的常用编码【更多平价it资源dbbp.net】 1.docx",
-    "01CKam/暗月渗透/渗透测试基础知识/04渗透测试中的常用编码/渗透测试中的常用编码【更多平价it资源dbbp.net】 1.docx",
-    "01CKam/暗月渗透/渗透测试基础知识/04渗透测试中的常用编码/渗透测试中的常用编码【更多平价it资源dbbp.net】.docx",
-    "01CKam/暗月渗透/渗透测试基础知识/04渗透测试中的常用编码",
-    "01CKam/暗月渗透/渗透测试基础知识/01虚拟机与Kali、靶机/02Kali2021的安装和配置.md",
-    "01CKam/暗月渗透/渗透测试基础知识/01虚拟机与Kali、靶机/03Kali的常用命令.md",
-    "01CKam/暗月渗透/渗透测试基础知识/01虚拟机与Kali、靶机/04Linux文件属性和权限设置.md",
-    "01CKam/暗月渗透/渗透测试基础知识/01虚拟机与Kali、靶机/05安装靶机.md",
-    "01CKam/暗月渗透/渗透测试基础知识/02相关工具/01burp2021.03安装使用.md",
-    "01CKam/暗月渗透/渗透测试基础知识/03HTTP协议/HTTP实例.png",
-    "01CKam/暗月渗透/渗透测试基础知识/HTTP协议/07http请求与响应.md",
-    "学习中遇到的问题.md",
-    "README.md",
-    "01CKam/暗月渗透/渗透测试基础知识/burp2021.03安装使用.md",
-    "01CKam/暗月渗透/01VMware Workstation虚拟机学习使用.md",
-    "01CKam/暗月渗透/05安装靶机.md",
-    "01CKam/暗月渗透/04Linux文件属性和权限设置.md",
-    "01CKam/暗月渗透/03Kali的常用命令.md",
-    "01CKam/暗月渗透/02Kali2021的安装和配置.md"
+    "01CKam/暗月渗透/渗透测试基础知识/03HTTP协议/HTTP实例.png"
   ]
 }
